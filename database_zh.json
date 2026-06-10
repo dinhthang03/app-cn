@@ -4,7 +4,178 @@
     {
       "id": "c_default",
       "name": "Giáo trình Tiếng Trung",
-      "lessons": []
+      "lessons": [
+        {
+          "id": "lesson1_chinese",
+          "title": "Lesson 1: Nhập môn Tiếng Trung - Pinyin & Thanh điệu",
+          "sections": [
+            {
+              "title": "1. Từ vựng cơ bản (生词 - Shēngcí)",
+              "rule": "Làm quen với các từ vựng thông dụng nhất trong tiếng Trung.",
+              "words": [
+                {
+                  "en": "你",
+                  "vi": "Bạn",
+                  "pos": "N",
+                  "details": "Nǐ (nhĩ): Đại từ nhân xưng ngôi thứ 2 (anh, chị, bạn, ông, bà...)."
+                },
+                {
+                  "en": "好",
+                  "vi": "Tốt / Đẹp",
+                  "pos": "A",
+                  "details": "Hǎo (hảo): Tốt, đẹp, hay, ngon."
+                },
+                {
+                  "en": "你好",
+                  "vi": "Xin chào",
+                  "pos": "NONE",
+                  "details": "Nǐ hǎo: Chào bạn."
+                },
+                {
+                  "en": "一",
+                  "vi": "Một",
+                  "pos": "N",
+                  "details": "Yī (nhất): Số 1."
+                },
+                {
+                  "en": "五",
+                  "vi": "Năm",
+                  "pos": "N",
+                  "details": "Wǔ (ngũ): Số 5."
+                },
+                {
+                  "en": "八",
+                  "vi": "Tám",
+                  "pos": "N",
+                  "details": "Bā (bát): Số 8."
+                },
+                {
+                  "en": "大",
+                  "vi": "To / Lớn",
+                  "pos": "A",
+                  "details": "Dà (đại): To, lớn."
+                },
+                {
+                  "en": "不",
+                  "vi": "Không",
+                  "pos": "ADV",
+                  "details": "Bù (bất): Từ phủ định, không, chẳng."
+                },
+                {
+                  "en": "口",
+                  "vi": "Miệng / Nhân khẩu",
+                  "pos": "N",
+                  "details": "Kǒu (khẩu): Cái miệng; lượng từ cho thành viên gia đình."
+                },
+                {
+                  "en": "白",
+                  "vi": "Trắng",
+                  "pos": "A",
+                  "details": "Bái (bạch): Màu trắng."
+                },
+                {
+                  "en": "女",
+                  "vi": "Nữ",
+                  "pos": "A",
+                  "details": "Nǚ (nữ): Nữ, phụ nữ."
+                },
+                {
+                  "en": "马",
+                  "vi": "Con ngựa",
+                  "pos": "N",
+                  "details": "Mǎ (mã): Con ngựa."
+                }
+              ],
+              "sentences": [
+                {
+                  "en": "你好!",
+                  "vi": "Xin chào!"
+                },
+                {
+                  "en": "我有一个大口。",
+                  "vi": "Tôi có một cái miệng to."
+                }
+              ]
+            },
+            {
+              "title": "2. Ngữ âm (语音 - Yǔyīn)",
+              "rule": "Pinyin được cấu tạo từ Thanh mẫu (b, p, m, f...) và Vận mẫu (a, o, e, i, u, ü...).",
+              "words": [
+                {
+                  "en": "Thanh mẫu",
+                  "vi": "Initials",
+                  "pos": "N",
+                  "details": "Phụ âm mở đầu của âm tiết: b, p, m, f, d, t, n, l, g, k, h."
+                },
+                {
+                  "en": "Vận mẫu",
+                  "vi": "Finals",
+                  "pos": "N",
+                  "details": "Phần còn lại của âm tiết: a, o, e, i, u, ü, ai, ei, ao, ou."
+                }
+              ]
+            },
+            {
+              "title": "3. Thanh điệu (声调 - Shēngdiào)",
+              "rule": "Tiếng Trung có 4 thanh điệu chính, thay đổi thanh điệu sẽ thay đổi ý nghĩa của từ.",
+              "words": [
+                {
+                  "en": "Thanh 1",
+                  "vi": "Ngang (55)",
+                  "pos": "NONE",
+                  "details": "Ký hiệu: ā, ī, ū. Đọc cao và bằng."
+                },
+                {
+                  "en": "Thanh 2",
+                  "vi": "Sắc (35)",
+                  "pos": "NONE",
+                  "details": "Ký hiệu: á, í, ú. Đọc từ trung bình lên cao."
+                },
+                {
+                  "en": "Thanh 3",
+                  "vi": "Hỏi (214)",
+                  "pos": "NONE",
+                  "details": "Ký hiệu: ǎ, ǐ, ǔ. Đọc xuống thấp rồi lên cao."
+                },
+                {
+                  "en": "Thanh 4",
+                  "vi": "Huyền/Sắc (51)",
+                  "pos": "NONE",
+                  "details": "Ký hiệu: à, ì, ù. Đọc từ cao xuống thấp đột ngột."
+                }
+              ],
+              "sentences": [
+                {
+                  "en": "bā (tám) - bá (nhổ) - bǎ (bia) - bà (bố)",
+                  "vi": "Ví dụ về sự khác biệt ý nghĩa theo thanh điệu."
+                },
+                {
+                  "en": "nǐ hǎo -> ní hǎo",
+                  "vi": "Quy tắc biến điệu: Khi hai thanh 3 đi liền nhau, thanh 3 thứ nhất đọc thành thanh 2."
+                }
+              ]
+            },
+            {
+              "title": "4. Quy tắc đánh dấu thanh điệu",
+              "rule": "Dấu thanh điệu đặt trên nguyên âm chính. Nếu có 'i', dấu chấm trên 'i' sẽ bị bỏ đi.",
+              "words": [
+                {
+                  "en": "Hǎo",
+                  "vi": "Tốt",
+                  "pos": "A",
+                  "details": "Dấu đặt trên 'a' vì 'a' mở miệng to nhất."
+                },
+                {
+                  "en": "Nǐ",
+                  "vi": "Bạn",
+                  "pos": "N",
+                  "details": "Dấu đặt trên 'i', bỏ dấu chấm."
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
