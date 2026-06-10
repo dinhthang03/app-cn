@@ -1,0 +1,10 @@
+{
+  "activeCurriculumId": "c_default",
+  "curriculums": [
+    {
+      "id": "c_default",
+      "name": "Giáo trình Tiếng Trung",
+      "lessons": []
+    }
+  ]
+}
