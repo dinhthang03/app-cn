@@ -1,9 +1,14 @@
 {
-  "activeCurriculumId": "c_1781238173168",
+  "activeCurriculumId": "c_1781238298180",
   "curriculums": [
     {
       "id": "c_1781238173168",
       "name": "3",
+      "lessons": []
+    },
+    {
+      "id": "c_1781238298180",
+      "name": "TEST",
       "lessons": []
     }
   ],
