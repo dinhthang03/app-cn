@@ -1,5 +1,5 @@
 {
-  "activeCurriculumId": "c_1781238062728",
+  "activeCurriculumId": "c_1781225091537",
   "curriculums": [
     {
       "id": "c_1781225091537",
@@ -2012,11 +2012,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c_1781238062728",
-      "name": "2",
-      "lessons": []
     }
   ],
   "personalDict": []
