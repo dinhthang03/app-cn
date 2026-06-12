@@ -1835,6 +1835,805 @@
               "sentences": []
             }
           ]
+        },
+        {
+          "id": "lesson_2",
+          "title": "第二课: 汉语不太难 (Bài 2: Tiếng Hán không khó lắm)",
+          "sections": [
+            {
+              "title": "一. 课文 (Bài đọc)",
+              "rule": "<div class=\"grid-cols-2\">Luyện tập mẫu câu hỏi thăm sức khỏe, công việc và đánh giá mức độ cơ bản. Bấm vào chữ để nghe phát âm.</div>",
+              "words": [],
+              "sentences": [
+                {
+                  "zh": "A: 你忙吗？",
+                  "pinyin": "Nǐ máng ma?",
+                  "vi": "Bạn bận không?"
+                },
+                {
+                  "zh": "B: 很忙。",
+                  "pinyin": "Hěn máng.",
+                  "vi": "Rất bận."
+                },
+                {
+                  "zh": "A: 汉语难吗？",
+                  "pinyin": "Hànyǔ nán ma?",
+                  "vi": "Tiếng Hán khó không?"
+                },
+                {
+                  "zh": "B: 不太难。",
+                  "pinyin": "Bù tài nán.",
+                  "vi": "Không khó lắm."
+                }
+              ]
+            },
+            {
+              "title": "二. 生词 (Từ mới)",
+              "rule": "<div class=\"grid-cols-4\">Danh sách từ vựng Bài 2. Bạn có thể bôi đen từ vựng để xem hình ảnh động hướng dẫn cách viết từng nét.</div>",
+              "words": [
+                {
+                  "zh": "忙",
+                  "pinyin": "máng",
+                  "vi": "bận, bận rộn",
+                  "pos": "形",
+                  "topic": "Tính từ, Công việc",
+                  "details": "Tính từ (busy)."
+                },
+                {
+                  "zh": "吗",
+                  "pinyin": "ma",
+                  "vi": "không, à, ư",
+                  "pos": "助",
+                  "topic": "Từ nghi vấn",
+                  "details": "Trợ từ nghi vấn, thường đứng cuối câu để tạo thành câu hỏi (Yes/No question)."
+                },
+                {
+                  "zh": "很",
+                  "pinyin": "hěn",
+                  "vi": "rất, lắm",
+                  "pos": "副",
+                  "topic": "Phó từ, Mức độ",
+                  "details": "Phó từ chỉ mức độ (very). Thường đứng trước tính từ."
+                },
+                {
+                  "zh": "汉语",
+                  "pinyin": "Hànyǔ",
+                  "vi": "Tiếng Hán, tiếng Trung",
+                  "pos": "名",
+                  "topic": "Ngôn ngữ, Học tập",
+                  "details": "Danh từ (Chinese language)."
+                },
+                {
+                  "zh": "难",
+                  "pinyin": "nán",
+                  "vi": "khó",
+                  "pos": "形",
+                  "topic": "Tính từ, Cảm xúc",
+                  "details": "Tính từ (difficult, hard)."
+                },
+                {
+                  "zh": "太",
+                  "pinyin": "tài",
+                  "vi": "hơi, quá, lắm",
+                  "pos": "副",
+                  "topic": "Phó từ, Mức độ",
+                  "details": "Phó từ chỉ mức độ (too, extremely). Thường dùng trong cấu trúc: 太 + Tính từ + 了 hoặc 不太 + Tính từ."
+                },
+                {
+                  "zh": "爸爸",
+                  "pinyin": "bàba",
+                  "vi": "bố, ba",
+                  "pos": "名",
+                  "topic": "Gia đình, Con người",
+                  "details": "Danh từ (dad, father). Âm tiết thứ 2 đọc thanh nhẹ."
+                },
+                {
+                  "zh": "妈妈",
+                  "pinyin": "māma",
+                  "vi": "mẹ, má",
+                  "pos": "名",
+                  "topic": "Gia đình, Con người",
+                  "details": "Danh từ (mum, mother). Âm tiết thứ 2 đọc thanh nhẹ."
+                },
+                {
+                  "zh": "他",
+                  "pinyin": "tā",
+                  "vi": "anh ấy, ông ấy",
+                  "pos": "代",
+                  "topic": "Đại từ, Con người",
+                  "details": "Đại từ nhân xưng ngôi thứ 3 số ít dành cho nam (he, him)."
+                },
+                {
+                  "zh": "她",
+                  "pinyin": "tā",
+                  "vi": "cô ấy, bà ấy",
+                  "pos": "代",
+                  "topic": "Đại từ, Con người",
+                  "details": "Đại từ nhân xưng ngôi thứ 3 số ít dành cho nữ (she, her). Cùng phát âm với 他 nhưng viết khác."
+                },
+                {
+                  "zh": "男",
+                  "pinyin": "nán",
+                  "vi": "nam, con trai",
+                  "pos": "形",
+                  "topic": "Con người, Giới tính",
+                  "details": "Tính từ / Danh từ (male)."
+                },
+                {
+                  "zh": "哥哥",
+                  "pinyin": "gēge",
+                  "vi": "anh trai",
+                  "pos": "名",
+                  "topic": "Gia đình, Con người",
+                  "details": "Danh từ (elder brother). Âm tiết thứ 2 đọc thanh nhẹ."
+                },
+                {
+                  "zh": "弟弟",
+                  "pinyin": "dìdi",
+                  "vi": "em trai",
+                  "pos": "名",
+                  "topic": "Gia đình, Con người",
+                  "details": "Danh từ (younger brother). Âm tiết thứ 2 đọc thanh nhẹ."
+                },
+                {
+                  "zh": "妹妹",
+                  "pinyin": "mèimei",
+                  "vi": "em gái",
+                  "pos": "名",
+                  "topic": "Gia đình, Con người",
+                  "details": "Danh từ (younger sister). Âm tiết thứ 2 đọc thanh nhẹ."
+                }
+              ],
+              "sentences": []
+            },
+            {
+              "title": "三. 语音 (Ngữ âm) - 韵母 (Vận mẫu mới)",
+              "rule": "<div style=\"background: white; padding: 15px; border-radius: 8px; border: 1px solid #cbd5e1; display: inline-block; box-shadow: 0 2px 4px rgba(0,0,0,0.05);\"><h4 style=\"color:var(--secondary); margin-bottom:10px; border-bottom:1px solid #e2e8f0; padding-bottom:5px;\">Vận mẫu kết thúc bằng n và ng</h4><div style=\"font-size: 1.5rem; font-weight: bold; color: var(--accent); line-height: 2; letter-spacing: 15px;\">an en in un ün<br>ang eng ing ong</div></div>",
+              "words": [],
+              "sentences": []
+            },
+            {
+              "title": "三. 语音 (Ngữ âm) - 拼音 (Ghép âm Bài 2)",
+              "rule": "<div style=\"overflow-x: auto; margin-top: 10px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05);\"><table style=\"width: 100%; border-collapse: collapse; text-align: center; font-size: 1.1rem; border: 1px solid #cbd5e1; background: white;\"><thead style=\"background: #f1f5f9; font-weight: bold; color: var(--secondary);\"><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px;\"></th><th style=\"border: 1px solid #cbd5e1; padding: 12px;\">an</th><th style=\"border: 1px solid #cbd5e1; padding: 12px;\">en</th><th style=\"border: 1px solid #cbd5e1; padding: 12px;\">in</th><th style=\"border: 1px solid #cbd5e1; padding: 12px;\">un</th><th style=\"border: 1px solid #cbd5e1; padding: 12px;\">ün</th><th style=\"border: 1px solid #cbd5e1; padding: 12px;\">ang</th><th style=\"border: 1px solid #cbd5e1; padding: 12px;\">eng</th><th style=\"border: 1px solid #cbd5e1; padding: 12px;\">ing</th><th style=\"border: 1px solid #cbd5e1; padding: 12px;\">ong</th></tr></thead><tbody><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">b</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('ban')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">ban</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('ben')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">ben</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('bin')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">bin</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('bang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">bang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('beng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">beng</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('bing')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">bing</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">p</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('pan')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">pan</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('pen')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">pen</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('pin')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">pin</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('pang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">pang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('peng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">peng</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('ping')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">ping</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">m</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('man')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">man</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('men')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">men</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('min')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">min</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('mang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">mang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('meng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">meng</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('ming')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">ming</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">f</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('fan')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">fan</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('fen')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">fen</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('fang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">fang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('feng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">feng</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">d</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('dan')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">dan</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('den')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">den</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('dun')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">dun</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('dang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">dang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('deng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">deng</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('dong')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">dong</button></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">t</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('tan')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">tan</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('tun')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">tun</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('tang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">tang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('teng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">teng</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('tong')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">tong</button></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">n</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('nan')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">nan</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('nen')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">nen</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('nin')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">nin</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('nun')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">nun</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('nang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">nang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('neng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">neng</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('ning')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">ning</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('nong')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">nong</button></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">l</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('lan')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">lan</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('lin')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">lin</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('lun')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">lun</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('lang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">lang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('leng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">leng</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('ling')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">ling</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('long')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">long</button></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">g</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('gan')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">gan</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('gen')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">gen</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('gun')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">gun</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('gang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">gang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('geng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">geng</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('gong')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">gong</button></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">k</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('kan')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">kan</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('ken')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">ken</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('kun')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">kun</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('kang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">kang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('keng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">keng</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('kong')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">kong</button></td></tr><tr><th style=\"border: 1px solid #cbd5e1; padding: 12px; background: #f8fafc; color: var(--secondary);\">h</th><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('han')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">han</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('hen')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">hen</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('hun')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">hun</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('hang')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">hang</button></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('heng')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">heng</button></td><td style=\"border: 1px solid #cbd5e1; background: #e2e8f0;\"></td><td style=\"border: 1px solid #cbd5e1; padding: 0;\"><button onclick=\"speakText('hong')\" style=\"width:100%; height:100%; padding:12px; border:none; background:transparent; cursor:pointer; color:var(--primary); font-size:1.1rem;\">hong</button></td></tr></tbody></table></div>",
+              "words": [],
+              "sentences": []
+            },
+            {
+              "title": "四. 注释 (Chú thích) - 1. 轻声 (Thanh nhẹ)",
+              "rule": "<div class=\"grid-cols-4\">Trong tiếng Hán có một số âm tiết mất đi thanh điệu vốn có của nó, đọc thành một âm vừa ngắn vừa nhẹ. Hiện tượng này gọi là thanh nhẹ.</div>",
+              "words": [
+                {
+                  "zh": "妈妈",
+                  "pinyin": "māma",
+                  "vi": "mẹ",
+                  "pos": "NONE",
+                  "topic": "Thanh nhẹ",
+                  "details": "Âm tiết thứ 2 đọc ngắn và nhẹ, không có dấu thanh điệu trên pinyin."
+                },
+                {
+                  "zh": "哥哥",
+                  "pinyin": "gēge",
+                  "vi": "anh trai",
+                  "pos": "NONE",
+                  "topic": "Thanh nhẹ",
+                  "details": "Âm tiết thứ 2 đọc ngắn và nhẹ."
+                },
+                {
+                  "zh": "爸爸",
+                  "pinyin": "bàba",
+                  "vi": "bố",
+                  "pos": "NONE",
+                  "topic": "Thanh nhẹ",
+                  "details": "Âm tiết thứ 2 đọc ngắn và nhẹ."
+                },
+                {
+                  "zh": "弟弟",
+                  "pinyin": "dìdi",
+                  "vi": "em trai",
+                  "pos": "NONE",
+                  "topic": "Thanh nhẹ",
+                  "details": "Âm tiết thứ 2 đọc ngắn và nhẹ."
+                },
+                {
+                  "zh": "妹妹",
+                  "pinyin": "mèimei",
+                  "vi": "em gái",
+                  "pos": "NONE",
+                  "topic": "Thanh nhẹ",
+                  "details": "Âm tiết thứ 2 đọc ngắn và nhẹ."
+                }
+              ],
+              "sentences": []
+            },
+            {
+              "title": "四. 注释 (Chú thích) - 2. 半三声 (Nửa thanh 3)",
+              "rule": "<div class=\"grid-cols-4\">Khi một âm tiết mang thanh 3 đứng trước một âm tiết mang thanh 1, thanh 2, thanh 4 hoặc thanh nhẹ, thì âm tiết đó chỉ đọc nửa phần trước của thanh 3, tức là chỉ đọc phần đi xuống mà không đọc phần đi lên.</div>",
+              "words": [
+                {
+                  "zh": "很 高",
+                  "pinyin": "hěn gāo",
+                  "vi": "rất cao",
+                  "pos": "NONE",
+                  "topic": "Nửa thanh 3",
+                  "details": "Thanh 3 + Thanh 1. Đọc hěn chỉ phần xuống giọng."
+                },
+                {
+                  "zh": "很 难",
+                  "pinyin": "hěn nán",
+                  "vi": "rất khó",
+                  "pos": "NONE",
+                  "topic": "Nửa thanh 3",
+                  "details": "Thanh 3 + Thanh 2."
+                },
+                {
+                  "zh": "很 大",
+                  "pinyin": "hěn dà",
+                  "vi": "rất to",
+                  "pos": "NONE",
+                  "topic": "Nửa thanh 3",
+                  "details": "Thanh 3 + Thanh 4."
+                },
+                {
+                  "zh": "好 吗",
+                  "pinyin": "hǎo ma",
+                  "vi": "tốt không",
+                  "pos": "NONE",
+                  "topic": "Nửa thanh 3",
+                  "details": "Thanh 3 + Thanh nhẹ."
+                }
+              ],
+              "sentences": []
+            },
+            {
+              "title": "五. 练习 (Bài tập) - (1) 声调 (Thanh điệu)",
+              "rule": "<div class=\"grid-cols-4\">Luyện tập đọc Thanh điệu với các vận mẫu mũi mới.</div>",
+              "words": [
+                {
+                  "zh": "mān",
+                  "pinyin": "mān",
+                  "vi": "Thanh 1",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "mán",
+                  "pinyin": "mán",
+                  "vi": "Thanh 2",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "mǎn",
+                  "pinyin": "mǎn",
+                  "vi": "Thanh 3",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "màn",
+                  "pinyin": "màn",
+                  "vi": "Thanh 4",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "nēn",
+                  "pinyin": "nēn",
+                  "vi": "Thanh 1",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "nén",
+                  "pinyin": "nén",
+                  "vi": "Thanh 2",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "něn",
+                  "pinyin": "něn",
+                  "vi": "Thanh 3",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "nèn",
+                  "pinyin": "nèn",
+                  "vi": "Thanh 4",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "hān",
+                  "pinyin": "hān",
+                  "vi": "Thanh 1",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "hán",
+                  "pinyin": "hán",
+                  "vi": "Thanh 2",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "hǎn",
+                  "pinyin": "hǎn",
+                  "vi": "Thanh 3",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "hàn",
+                  "pinyin": "hàn",
+                  "vi": "Thanh 4",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "mēn",
+                  "pinyin": "mēn",
+                  "vi": "Thanh 1",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "mén",
+                  "pinyin": "mén",
+                  "vi": "Thanh 2",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "měn",
+                  "pinyin": "měn",
+                  "vi": "Thanh 3",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "mèn",
+                  "pinyin": "mèn",
+                  "vi": "Thanh 4",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "bāng",
+                  "pinyin": "bāng",
+                  "vi": "Thanh 1",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "báng",
+                  "pinyin": "báng",
+                  "vi": "Thanh 2",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "bǎng",
+                  "pinyin": "bǎng",
+                  "vi": "Thanh 3",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "bàng",
+                  "pinyin": "bàng",
+                  "vi": "Thanh 4",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "dēng",
+                  "pinyin": "dēng",
+                  "vi": "Thanh 1",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "déng",
+                  "pinyin": "déng",
+                  "vi": "Thanh 2",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "děng",
+                  "pinyin": "děng",
+                  "vi": "Thanh 3",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "dèng",
+                  "pinyin": "dèng",
+                  "vi": "Thanh 4",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "dōng",
+                  "pinyin": "dōng",
+                  "vi": "Thanh 1",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "dóng",
+                  "pinyin": "dóng",
+                  "vi": "Thanh 2",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "dǒng",
+                  "pinyin": "dǒng",
+                  "vi": "Thanh 3",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                },
+                {
+                  "zh": "dòng",
+                  "pinyin": "dòng",
+                  "vi": "Thanh 4",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện đọc thanh điệu."
+                }
+              ],
+              "sentences": []
+            },
+            {
+              "title": "五. 练习 (Bài tập) - (2) 辨别韵母 (Phân biệt vận mẫu)",
+              "rule": "<div class=\"grid-cols-2\">Luyện nghe phân biệt các cặp vận mẫu n/ng (an-ang, en-eng, in-ing).</div>",
+              "words": [
+                {
+                  "zh": "ban",
+                  "pinyin": "ban",
+                  "vi": "Vận mẫu an",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt an và ang."
+                },
+                {
+                  "zh": "bang",
+                  "pinyin": "bang",
+                  "vi": "Vận mẫu ang",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt an và ang."
+                },
+                {
+                  "zh": "pan",
+                  "pinyin": "pan",
+                  "vi": "Vận mẫu an",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt an và ang."
+                },
+                {
+                  "zh": "pang",
+                  "pinyin": "pang",
+                  "vi": "Vận mẫu ang",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt an và ang."
+                },
+                {
+                  "zh": "man",
+                  "pinyin": "man",
+                  "vi": "Vận mẫu an",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt an và ang."
+                },
+                {
+                  "zh": "mang",
+                  "pinyin": "mang",
+                  "vi": "Vận mẫu ang",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt an và ang."
+                },
+                {
+                  "zh": "fan",
+                  "pinyin": "fan",
+                  "vi": "Vận mẫu an",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt an và ang."
+                },
+                {
+                  "zh": "fang",
+                  "pinyin": "fang",
+                  "vi": "Vận mẫu ang",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt an và ang."
+                },
+                {
+                  "zh": "ben",
+                  "pinyin": "ben",
+                  "vi": "Vận mẫu en",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt en và eng."
+                },
+                {
+                  "zh": "beng",
+                  "pinyin": "beng",
+                  "vi": "Vận mẫu eng",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt en và eng."
+                },
+                {
+                  "zh": "pen",
+                  "pinyin": "pen",
+                  "vi": "Vận mẫu en",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt en và eng."
+                },
+                {
+                  "zh": "peng",
+                  "pinyin": "peng",
+                  "vi": "Vận mẫu eng",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt en và eng."
+                },
+                {
+                  "zh": "men",
+                  "pinyin": "men",
+                  "vi": "Vận mẫu en",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt en và eng."
+                },
+                {
+                  "zh": "meng",
+                  "pinyin": "meng",
+                  "vi": "Vận mẫu eng",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt en và eng."
+                },
+                {
+                  "zh": "fen",
+                  "pinyin": "fen",
+                  "vi": "Vận mẫu en",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt en và eng."
+                },
+                {
+                  "zh": "feng",
+                  "pinyin": "feng",
+                  "vi": "Vận mẫu eng",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt en và eng."
+                },
+                {
+                  "zh": "bin",
+                  "pinyin": "bin",
+                  "vi": "Vận mẫu in",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt in và ing."
+                },
+                {
+                  "zh": "bing",
+                  "pinyin": "bing",
+                  "vi": "Vận mẫu ing",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt in và ing."
+                },
+                {
+                  "zh": "pin",
+                  "pinyin": "pin",
+                  "vi": "Vận mẫu in",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt in và ing."
+                },
+                {
+                  "zh": "ping",
+                  "pinyin": "ping",
+                  "vi": "Vận mẫu ing",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt in và ing."
+                },
+                {
+                  "zh": "min",
+                  "pinyin": "min",
+                  "vi": "Vận mẫu in",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt in và ing."
+                },
+                {
+                  "zh": "ming",
+                  "pinyin": "ming",
+                  "vi": "Vận mẫu ing",
+                  "pos": "NONE",
+                  "topic": "Luyện âm",
+                  "details": "Luyện phân biệt in và ing."
+                }
+              ],
+              "sentences": []
+            },
+            {
+              "title": "五. 练习 (Bài tập) - (3) 认读 (Nhận mặt chữ)",
+              "rule": "<div class=\"grid-cols-4\">Nhận biết Hán tự và luyện đọc cụm từ, câu.</div>",
+              "words": [
+                {
+                  "zh": "忙吗",
+                  "pinyin": "máng ma",
+                  "vi": "Bận không?",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "很忙",
+                  "pinyin": "hěn máng",
+                  "vi": "Rất bận",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "难吗",
+                  "pinyin": "nán ma",
+                  "vi": "Khó không?",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "很难",
+                  "pinyin": "hěn nán",
+                  "vi": "Rất khó",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "好吗",
+                  "pinyin": "hǎo ma",
+                  "vi": "Tốt không?",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "很好",
+                  "pinyin": "hěn hǎo",
+                  "vi": "Rất tốt",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "大吗",
+                  "pinyin": "dà ma",
+                  "vi": "To không?",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "很大",
+                  "pinyin": "hěn dà",
+                  "vi": "Rất to",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "汉语",
+                  "pinyin": "Hànyǔ",
+                  "vi": "Tiếng Hán",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "爸爸",
+                  "pinyin": "bàba",
+                  "vi": "Bố",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "妈妈",
+                  "pinyin": "māma",
+                  "vi": "Mẹ",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "哥哥",
+                  "pinyin": "gēge",
+                  "vi": "Anh trai",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "弟弟",
+                  "pinyin": "dìdi",
+                  "vi": "Em trai",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "妹妹",
+                  "pinyin": "mèimei",
+                  "vi": "Em gái",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "太难",
+                  "pinyin": "tài nán",
+                  "vi": "Quá khó",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                },
+                {
+                  "zh": "不大",
+                  "pinyin": "bù dà",
+                  "vi": "Không to",
+                  "pos": "NONE",
+                  "topic": "Nhận biết chữ",
+                  "details": "Luyện ghép cụm từ."
+                }
+              ],
+              "sentences": []
+            }
+          ]
         }
       ]
     }
